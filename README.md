@@ -1,6 +1,22 @@
 
 # Hi, I'm Parthiv! 👋
 
+---
+# Recent Activity
+
+[![starsBadge]][stargazers]
+[![forksBadge]][forks]
+[![issuesBadge]][issues]
+![sizeBadge]
+![codelinesBadge]
+[![codeOfConductBadge]][codeOfConduct]
+
+![uniqueUsersBadge]
+![totalrunsbadge]
+![successratebadge]
+
+[![discordBadge]][Discord]
+---
 
 ## 🛠 Skills
 .Net, Angular, Vue Js, React Js,Javascript, Jquery, Kendo UI, Ag grid, HTML, CSS
